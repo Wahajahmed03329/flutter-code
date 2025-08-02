@@ -1,4 +1,6 @@
-// void main() {
+import 'dart:io';
+
+void main() {
 //   //  question1
 // List<String> names = ['Ali', 'Sara', 'Ahmed'];
 // print(names);
@@ -48,6 +50,34 @@
   // }
   // }
   // print("Maximum value: $max");
-}
+  // int step =0;
+  // print(step++);
+  // print(step++);
+  // print (++step);
+  // print (step);
+  // int step2=3;
+  // print(step2--);
+  // print (step2--);
+  // print(--step2);
+  // print(step2);
+ 
+ 
+//  for (int i=2;i<21; i++ +i++){
+//   print ("2 tabal $i");
+//  }
+// List num =[30,45,85];
+//  for (int i=0;i<1;i++){
+// print("exame number$num");
+//  }
+//  int login =0;
+//  while(login<=3){
+//   print ("login attempted time =$login");
+//   login++;
+//   if (login==5){
+//     break;
+//   }
+// // }
+
+// }
 
   
